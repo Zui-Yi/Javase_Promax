@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/day01_oop_app1/day01_oop_app1.iml" filepath="$PROJECT_DIR$/day01_oop_app1/day01_oop_app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_oop/day01_oop.iml" filepath="$PROJECT_DIR$/day01_oop/day01_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_opp/day02_opp.iml" filepath="$PROJECT_DIR$/day02_opp/day02_opp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_opp/day03_opp.iml" filepath="$PROJECT_DIR$/day03_opp/day03_opp.iml" />
       <module fileurl="file://$PROJECT_DIR$/javasepromax.iml" filepath="$PROJECT_DIR$/javasepromax.iml" />
     </modules>
   </component>
